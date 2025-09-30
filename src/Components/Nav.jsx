@@ -1,6 +1,7 @@
 import React from 'react';
 import { FaShoppingCart } from "react-icons/fa";
 
+
 const Nav = () => {
   return (
     <div className="w-full shadow-sm">
@@ -43,6 +44,7 @@ const Nav = () => {
           </button>
         </div>
       </div>
+
 
       {/* Navigation Links */}
       <div className='hidden md:block'>
