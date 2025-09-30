@@ -51,6 +51,7 @@ const Six = () => {
               <button className="mt-4 bg-green-600 hover:bg-green-700 text-white font-bold py-2 px-4 rounded-lg transition">
                 Add to Cart
               </button>
+              {/* <div>hi</div> */}
             </div>
           </div>
         ))}
