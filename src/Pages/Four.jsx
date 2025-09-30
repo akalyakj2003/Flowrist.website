@@ -50,6 +50,7 @@ const Four = () => {
           <div className="bg-black rounded-full w-3 h-3 md:w-4 md:h-4"></div>
           <div className="bg-black rounded-full w-3 h-3 md:w-4 md:h-4"></div>
           <div className="bg-black rounded-full w-3 h-3 md:w-4 md:h-4"></div>
+          {/* <div className="green"></div> */}
         </div>
       </div>
     </div>
